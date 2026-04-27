@@ -19,10 +19,10 @@ const MIN_BOX_WIDTH = DESCENDER_WIDTH + RADIUS + 20;
 
 const PALETTE = [
   "#161b44",
-  "#2e3a7c",
-  "#4f6db3",
-  "#8ca4d9",
-  "#c2d1ed",
+  "#1C338A",
+  "#E7BA48",
+  "#F15B55",
+  "#E3DDD2",
 ];
 
 // Scale factors per box count: [box1, box2, box3, box4]
